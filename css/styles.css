@@ -1,10 +1,14 @@
 /*colors:
-#C78181
-#E6B5A1
-#E6D5B8
-#CCC8B1
-#80676A*/
+#D34472 Primary:Pink
+#39B18E Secondary: Teal
+#C0F9F0 Tertiary: light teal
+*/
 
+
+body{
+	background: url("../img/binding_light.png");
+	font-family: 'Allerta', sans-serif;
+}
 
 header{
 	

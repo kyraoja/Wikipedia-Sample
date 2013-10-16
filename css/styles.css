@@ -10,6 +10,26 @@ body{
 	font-family: 'Allerta', sans-serif;
 }
 
+h1{
+	color:#D34472; 
+	text-shadow: 1px 2px 3px #DDEEFF,
+               0 0 0 black,
+               -1px 1px 0 #DDEEFF,
+               1px 1px 0 white;
+	font-size: 48px;
+	
+}
+
+h3{
+	color: #D34472;
+}
+
+img{
+	box-shadow: 0 0 50px #C0F9F0;
+	
+}
+
+
 header{
 	
 }
